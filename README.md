@@ -94,7 +94,7 @@ opencv-face-recognition-flask/
 
 📽️ Video Demo
 
-<a data-start="223" data-end="337" rel="noopener" target="_new" class="" href=""><img alt="Watch the Demo" data-start="224" data-end="289" src="https://img-c.udemycdn.com/course/480x270/2756342_cfca_13.jpg" style="max-width:100%;width:110vh;"></a>
+<a data-start="223" data-end="337" rel="noopener" target="_new" class="" href="https://www.linkedin.com/posts/sam-sde_opencv-flask-facerecognition-activity-7317875342935797761-oWpP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEztkXcB7v8aQJ1eKeIOBmmBCzZ9XxNr4jk"><img alt="Watch the Demo" data-start="224" data-end="289" src="https://img-c.udemycdn.com/course/480x270/2756342_cfca_13.jpg" style="max-width:100%;width:110vh;"></a>
 
 📱 Android Support (Coming Soon)
 We're planning to add Android integration via a mobile client or using API endpoints to allow mobile face detection and recognition using the same system.

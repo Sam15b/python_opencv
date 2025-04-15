@@ -5,31 +5,31 @@ Currently, the project runs in a **web browser**, with planned support for **And
 
 ✨ Features
 
--🎯 Real-time face detection using OpenCV
+ • 🎯 Real-time face detection using OpenCV
 
--👤 Lightweight facial recognition using saved face data (no deep learning)
+ • 👤 Lightweight facial recognition using saved face data (no deep learning)
 
--💡 Fast and efficient: no heavy model training
+ • 💡 Fast and efficient: no heavy model training
 
--📸 Add new faces dynamically to the dataset
+ • 📸 Add new faces dynamically to the dataset
 
--🖥️ Simple, clean Flask-based web interface
+ • 🖥️ Simple, clean Flask-based web interface
 
--📱 Android support planned (via mobile client or REST API)
+ • 📱 Android support planned (via mobile client or REST API)
 
 ⚙️ Technologies Used
 
--Python 3
+ • Python 3
 
--Flask
+ • Flask
 
--OpenCV (cv2)
+ • OpenCV (cv2)
 
--NumPy
+ • NumPy
 
--sklearn (KNN method)
+ • sklearn (KNN method)
 
--HTML5 
+ • HTML5 
 
 🚀 Getting Started
 
@@ -86,10 +86,10 @@ pip install flask flask-cors scikit-learn pillow opencv-python-headless numpy
 opencv-face-recognition-flask/
 ├── static/             # CSS/JS/Images
 ├── templates/          # HTML files
-├── dataset/            # Saved facial images Web
-      |- haarcascade_frontalface_default        # Classifier
-|   android/            # Saved facial images Android
-└── app.py              # Flask main app
+├── data/               # Saved facial images Web
+│   └── haarcascade_frontalface_default.xml   # Haar cascade classifier
+├── android/            # Saved facial data (Android - future support)
+└── test.py              # Flask main app
 ```
 
 📽️ Video Demo

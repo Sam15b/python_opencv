@@ -94,7 +94,7 @@ opencv-face-recognition-flask/
 
 📽️ Video Demo
 
-
+<a data-start="223" data-end="337" rel="noopener" target="_new" class="" href=""><img alt="Watch the Demo" data-start="224" data-end="289" src="https://img-c.udemycdn.com/course/480x270/2756342_cfca_13.jpg" style="max-width:100%;width:110vh;"></a>
 
 📱 Android Support (Coming Soon)
 We're planning to add Android integration via a mobile client or using API endpoints to allow mobile face detection and recognition using the same system.
